@@ -1,0 +1,12 @@
+{
+    "name": "m4nu/teamspeak3-php-framework",
+    "description": "TeamSpeak3 PHP Framework",
+    "keywords": ["teamspeak", "php"],
+    "require": {
+        "php": ">=5.2.1"
+    },
+    "autoload": {
+        "psr-0": { "M4nu\\TeamSpeak3PHPFramework": "" }
+    },
+    "target-dir": "M4nu/TeamSpeak3PHPFramework"
+}
